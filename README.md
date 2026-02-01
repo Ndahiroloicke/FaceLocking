@@ -2,6 +2,13 @@
 
 Real-time face tracking that locks onto a specific person, detects their movements (left/right), blinks, and smiles, then logs everything to timestamped files.
 
+## Clone Repository
+
+```bash
+git clone https://github.com/Ndahiroloicke/FaceLocking.git
+cd FaceLocking
+```
+
 ## Quick Setup
 
 ### 1. Create Virtual Environment
